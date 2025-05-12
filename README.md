@@ -1,4 +1,4 @@
-# Predicción de Fuga de Clientes - Beta Bank
+# Predicción de Fuga de Clientes 
 
 Este proyecto tiene como objetivo predecir la salida de clientes del banco Beta Bank utilizando modelos de clasificación. El objetivo principal es alcanzar un valor F1 de al menos 0.59 y comparar esta métrica con AUC-ROC.
 
